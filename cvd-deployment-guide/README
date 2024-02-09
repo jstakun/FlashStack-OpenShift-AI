@@ -1,5 +1,5 @@
 The deployment procedures for deploying the solution are provided below. 
-- [UCS Server Prerequisites]()
+- [UCS Server Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/01_CVD%20UCS%20Server%20Prerequisites/01_CVD%20UCS%20Server%20Prerequisites.html)
 - Red Hat OpenShift Prerequisites
 - Deploy Red Hat OpenShift
 - Red Hat OpenShift - Post-Deployment Verification
