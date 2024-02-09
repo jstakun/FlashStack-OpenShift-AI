@@ -1,4 +1,4 @@
-The deployment procedures for deploying the solution are provided below. 
+The implementation steps for deploying the solution are provided below. 
 - [01_CVD: UCS Server Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/01_CVD%20UCS%20Server%20Prerequisites/01_CVD%20UCS%20Server%20Prerequisites.html)
 - [02_CVD: Red Hat OpenShift Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/02_CVD%20Red%20Hat%20OpenShift%20Prerequisites/02_CVD%20Red%20Hat%20OpenShift%20Prerequisites.html)
 - [03_CVD: Deploy Red Hat OpenShift](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/03_CVD%20Deploy%20Red%20Hat%20OpenShift/03_CVD%20Deploy%20Red%20Hat%20OpenShift.html)
