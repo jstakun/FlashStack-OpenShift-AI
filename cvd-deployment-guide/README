@@ -1,1 +1,14 @@
-
+The deployment procedures for deploying the solution are provided below. 
+- [UCS Server Prerequisites]()
+- Red Hat OpenShift Prerequisites
+- Deploy Red Hat OpenShift
+- Red Hat OpenShift - Post-Deployment Verification
+- NVIDIA AI Enterprise Software (NVAIE) Host Driver Prerequisites
+- Deploy NVAIE Host Driver for VMware vSphere
+- NVAIE Host Driver Post-Deployment Verification
+- Add vGPUs to Red Hat OpenShift worker node VMs
+- Deploy NVIDIA GPU Operator on Red Hat OpenShift
+- Deploy Persistent Storage on Red Hat OpenShift using Portworx from Pure Storage
+- Deploy Red Hat OpenShift AI for MLOps 
+- Deploy S3-compatible object stores on Pure Storage FlashBlade
+- Verify GPU operation
