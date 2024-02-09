@@ -1,14 +1,14 @@
 The deployment procedures for deploying the solution are provided below. 
-- [UCS Server Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/01_CVD%20UCS%20Server%20Prerequisites/01_CVD%20UCS%20Server%20Prerequisites.html)
-- Red Hat OpenShift Prerequisites
-- Deploy Red Hat OpenShift
-- Red Hat OpenShift - Post-Deployment Verification
-- NVIDIA AI Enterprise Software (NVAIE) Host Driver Prerequisites
-- Deploy NVAIE Host Driver for VMware vSphere
-- NVAIE Host Driver Post-Deployment Verification
-- Add vGPUs to Red Hat OpenShift worker node VMs
-- Deploy NVIDIA GPU Operator on Red Hat OpenShift
-- Deploy Persistent Storage on Red Hat OpenShift using Portworx from Pure Storage
-- Deploy Red Hat OpenShift AI for MLOps 
-- Deploy S3-compatible object stores on Pure Storage FlashBlade
-- Verify GPU operation
+- [01_CVD: UCS Server Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/01_CVD%20UCS%20Server%20Prerequisites/01_CVD%20UCS%20Server%20Prerequisites.html)
+- [02_CVD: Red Hat OpenShift Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/02_CVD%20Red%20Hat%20OpenShift%20Prerequisites/02_CVD%20Red%20Hat%20OpenShift%20Prerequisites.html)
+- [03_CVD: Deploy Red Hat OpenShift](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/03_CVD%20Deploy%20Red%20Hat%20OpenShift/03_CVD%20Deploy%20Red%20Hat%20OpenShift.html)
+- [04_CVD: Red Hat OpenShift - Post-Deployment Verification)](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/04_CVD%20Red%20Hat%20OpenShift%20-%20Post-Deployment%20Verification/04_CVD%20Red%20Hat%20OpenShift%20-%20Post-Deployment%20Verification.html)
+- [05_CVD: NVIDIA AI Enterprise Software (NVAIE) Host Driver Prerequisites](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/05_CVD%20NVAIE%20Host%20Driver%20Prerequisites/05_CVD%20NVAIE%20Host%20Driver%20Prerequisites.html)
+- [06_CVD: Deploy NVAIE Host Driver for VMware vSphere](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/06_CVD%20Deploy%20NVAIE%20Host%20Driver%20for%20VMware%20vSphere/06_CVD%20Deploy%20NVAIE%20Host%20Driver%20for%20VMware%20vSphere.html)
+- [07_CVD: NVAIE Host Driver Post-Deployment Verification](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/07_CVD%20NVAIE%20Host%20Driver%20Post-Deployment%20Verification/07_CVD%20NVAIE%20Host%20Driver%20Post-Deployment%20Verification.html)
+- [08_CVD: Add vGPUs to Red Hat OpenShift worker node VMs](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/08_CVD%20Add%20vGPUs%20to%20Red%20Hat%20OpenShift%20worker%20node%20VMs/08_CVD%20Add%20vGPUs%20to%20Red%20Hat%20OpenShift%20worker%20node%20VMs.html)
+- [09_CVD: Deploy NVIDIA GPU Operator on Red Hat OpenShift](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/09_CVD%20Deploy%20NVIDIA%20GPU%20Operator%20on%20Red%20Hat%20OpenShift/09_CVD%20Deploy%20NVIDIA%20GPU%20Operator%20on%20Red%20Hat%20OpenShift.html)
+- [10_CVD: Deploy Persistent Storage on Red Hat OpenShift using Portworx from Pure Storage](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/10_CVD%20Deploy%20Persistent%20Storage%20on%20Red%20Hat%20OpenShift%20using%20Portworx%20from%20Pure%20Storage/10_CVD%20Deploy%20Persistent%20Storage%20on%20Red%20Hat%20OpenShift%20using%20Portworx%20from%20Pure%20Storage.html)
+- [11_CVD: Deploy Red Hat OpenShift AI for MLOps](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/11_CVD%20Deploy%20Red%20Hat%20OpenShift%20AI%20for%20MLOps/11_CVD%20Deploy%20Red%20Hat%20OpenShift%20AI%20for%20MLOps.html) 
+- [12_CVD: Deploy S3-compatible object stores on Pure Storage FlashBlade](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/12_CVD%20Deploy%20S3-compatible%20object%20stores%20on%20Pure%20Storage%20FlashBlade/12_CVD%20Deploy%20S3-compatible%20object%20stores%20on%20Pure%20Storage%20FlashBlade.html)
+- [13_CVD: Verify GPU operation](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/HTML/13_CVD%20Verify%20GPU%20operation%20-%20FunctionalLoad%20Tests/13_CVD%20Verify%20GPU%20operation%20-%20FunctionalLoad%20Tests.html)
