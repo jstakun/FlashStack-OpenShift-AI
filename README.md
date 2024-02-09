@@ -1,5 +1,5 @@
 # FlashStack for AI: MLOps using Red Hat OpenShift AI 
 This is the repo for the Cisco Validated Design (CVD): **FlashStack for AI: MLOps using Red Hat OpenShift AI** CVD. This repo includes the following content:  
-- [Detailed implementation guides](https://htmlpreview.github.io/?https://github.com/ucs-compute-solutions/FlashStack-OpenShift-AI/blob/main/cvd-deployment-guide/README.md)
+- [Detailed implementation guides](cvd-deployment-guide/README.md)
 - Use case code used in solution validation
 - Sample GPU tests used in solution validation 
