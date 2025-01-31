@@ -1,0 +1,11 @@
+FROM quay.io/modh/odh-pytorch-notebook@sha256:aaf5efdeb965abd7bb0fb330a3f63b58d86dd8bfd770335a371d296cb6ba50e2
+
+#RHOAI 2.16.0
+
+COPY requirements.txt ./
+
+RUN mkdir /opt/app-root/models/ && \
+    wget https://github.com/ultralytics/assets/releases/download/v8.3.0/yolo11m.pt -O /opt/app-root/models/yolo11m.pt && \
+    pip install --no-cache-dir -r requirements.txt && \
+    chmod -R g+w /opt/app-root/lib/python3.11/site-packages && \
+    fix-permissions /opt/app-root -P
